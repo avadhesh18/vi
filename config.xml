@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="in.apkbee" version="1.3"  versionCode = "7">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="in.apkbee" version="1.3"  versionCode = "1">
   <name>VIDSTAN</name>
   <description>VIDSTAN APP</description>
   <author href="http://wapistan.co.in" email="support@androidbee.in">Wapistan</author>
