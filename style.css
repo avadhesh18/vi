@@ -129,7 +129,7 @@ input[type=search]:focus {border: 0;outline: none;border-bottom: 1px solid #ffff
     background: #f6f6f6;
     clear: both;
     overflow: hidden;
-    max-height: 55px;
+    max-height: 56px;
 }
 
 .heading a {
