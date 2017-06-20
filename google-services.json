@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "298953351628",
+    "firebase_url": "https://lyricsnext-bb1f5.firebaseio.com",
+    "project_id": "lyricsnext-bb1f5",
+    "storage_bucket": "lyricsnext-bb1f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298953351628:android:e834084bc393a9bd",
+        "android_client_info": {
+          "package_name": "in.co.wapistan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298953351628-607et3veqpcffhbf43mu6a2a1c2j3to0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPuGM2YaUwXfnTbRMKauWbaeblCaTneo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
