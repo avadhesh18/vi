@@ -25,6 +25,21 @@ document.addEventListener("touchstart", function(){}, true);
 
 
 <script>
+  
+  function onDeviceReady() {
+    if(typeof FCMPlugin !== "undefined"){
+         FCMPlugin.getToken(
+              function(token){
+                    alert(token);
+              }, function(err){
+                    alert('error retrieving token: ' + err);
+              }
+         );
+    }
+}
+
+document.addEventListener("deviceready", onDeviceReady, false);
+  
 FCMPlugin.getToken(
   function(token){
     alert(token);
