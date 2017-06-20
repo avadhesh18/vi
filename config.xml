@@ -39,8 +39,9 @@
 <gap:splash src="splash.png" />
 <gap:platform name="android" />
 	<platform name="android">
-  <resource-file src="google-services.json" target="google-services.json" />
-</platform>
+		<source-file src="google-services.json" target-dir="./"/>
+	</platform>
+
 	
 <preference name="SplashScreenDelay" value="2500" />
   <access origin="*"/>
